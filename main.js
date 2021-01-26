@@ -1,4 +1,4 @@
-const CLIENT_ID='870515046361-io2bae9ics8qvd1bh6b3930vj0el996s.apps.googleusercontent.com';
+const CLIENT_ID='870515046361-qd42rv949t6e98ui4opolau3dpjqkiaj.apps.googleusercontent.com';
 const DISCOVERY_DOCS='https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest';
 const SCOPES='https://www.googleapis.com/auth/youtube.readonly';
 const authorizeButton=document.getElementById('authorize-button');
